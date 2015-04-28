@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UpUnzipper\n"
+"POT-Creation-Date: 2015-04-26 11:04+0100\n"
+"PO-Revision-Date: 2015-04-26 11:06+0100\n"
+"Last-Translator: \n"
+"Language-Team: Ravidhu Dissanayake <ravidhu.dissa@gmail.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-upunzipper-admin.php:73
+#: ../admin/class-upunzipper-admin.php:74
+msgid "UpUnzipper"
+msgstr "UpUnzipper"
+
+#: ../admin/class-upunzipper-admin.php:115
+msgid "Select your zip file."
+msgstr "Sélectionner votre fichier zip"
+
+#: ../admin/class-upunzipper-admin.php:116
+msgid "Add your zip containing images"
+msgstr "Ajouter votre fichier zip contenant les images"
+
+#: ../admin/class-upunzipper-admin.php:145
+msgid "The zip is ...unzipped ;)."
+msgstr "Le zip est ... dézippé ;)."
+
+#: ../admin/class-upunzipper-admin.php:147
+msgid "The unzipping failed."
+msgstr "L'extraction a échoué."
+
+#: ../admin/class-upunzipper-admin.php:150
+msgid "Temporary folder failed to be created."
+msgstr "Le dossier temporaire n'a pas pu être créé."
+
+#: ../admin/class-upunzipper-admin.php:154
+#: ../admin/class-upunzipper-admin.php:242
+msgid "Id is missing."
+msgstr "L'id est manquant "
+
+#: ../admin/class-upunzipper-admin.php:176
+msgid "Failed to move the file."
+msgstr "Le déplacement du fichier a échoué."
+
+#: ../admin/class-upunzipper-admin.php:180
+msgid "Failed to erase temporary file."
+msgstr "La suppression du fichier temporaire a échoué."
+
+#: ../admin/class-upunzipper-admin.php:208
+msgid "Attachement creation failed."
+msgstr "La création du média a échoué."
+
+#: ../admin/class-upunzipper-admin.php:212
+msgid "No files."
+msgstr "Pas de fichier."
+
+#: ../admin/class-upunzipper-admin.php:233
+msgid "Temporary folder have been deleted."
+msgstr "Le dossier temporaire a été supprimé."
+
+#: ../admin/class-upunzipper-admin.php:235
+msgid "No temporary files to clean."
+msgstr "Pas de fichier temporaire à supprimer"
+
+#: ../admin/class-upunzipper-admin.php:238
+msgid "The temporary folder is not found."
+msgstr "Aucun dossier temporaire."
+
+#: ../admin/class-upunzipper-admin.php:259
+msgid "Wrong request."
+msgstr "Mauvaise requête."
+
+#: ../admin/partials/upunzipper-admin-display.php:18
+msgid "Upload or select an zip file."
+msgstr "Sélectionner ou uploader un fichier zip."
+
+#: ../admin/partials/upunzipper-admin-display.php:29
+msgid "files processed."
+msgstr "fichiers traités."
+
+#~ msgid "The data have been saved correctly !"
+#~ msgstr "Les données on été sauvegardé correctement !"
+
+#~ msgid "Failded to move the file."
+#~ msgstr "Le fichier n'a pas pu être déplacé."
